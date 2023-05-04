@@ -4,7 +4,7 @@ This repository contains the source code for FACS-GCN. Link to paper: https://ie
 
 ## 1. Datasets
 
-Preprocessed datasets are contained in the Data folder. Raw data are in Dataset folder.
+新建data文件夹，并把cvpa_features.csv,cvpa_edges.csv 放到data文件中
 
 ## 2. Usage
 
